@@ -1,5 +1,21 @@
 # FoKG 2026 — Knowledge Graph Fact Checking
 
+
+## Team Members
+
+**University:** Paderborn University  
+**Course:** Foundations of Knowledge Graphs (FoKG)  
+**Project:** Knowledge Graph Fact Checking using DBpedia
+
+| Name | Student ID |
+|------|------------|
+| Mihir Sane | 4086665 |
+| Aryan Solanki | 4106036 |
+| Jenish Jai | 4090405 |
+
+---
+
+
 A reproducible RDF fact-checking mini-project for the Foundations of Knowledge Graphs (FoKG) course. The system assigns each candidate triple a truth-confidence score between 0 and 1, using **DBpedia SPARQL evidence** and a **supervised logistic-regression classifier**.
 
 ## Results
