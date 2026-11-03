@@ -1,0 +1,2078 @@
+{
+  "http://dbpedia.org/resource/1971_(2007_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Amrit_Sagar"
+  ],
+  "http://dbpedia.org/resource/1971_(2007_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Amrit_Sagar"
+  ],
+  "http://dbpedia.org/resource/1971_(2007_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Chittaranjan_Giri",
+    "http://dbpedia.org/resource/Deepak_Dobriyal",
+    "http://dbpedia.org/resource/Kumud_Mishra",
+    "http://dbpedia.org/resource/Manav_Kaul",
+    "http://dbpedia.org/resource/Manoj_Bajpayee",
+    "http://dbpedia.org/resource/Piyush_Mishra",
+    "http://dbpedia.org/resource/Ravi_Kishan",
+    "http://dbpedia.org/resource/Vivek_Mishra"
+  ],
+  "http://dbpedia.org/resource/Adventure_in_the_Hopfields\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Roger_Proudlock"
+  ],
+  "http://dbpedia.org/resource/Adventure_in_the_Hopfields\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Vandyke_Productions"
+  ],
+  "http://dbpedia.org/resource/Adventure_in_the_Hopfields\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Mandy_Miller"
+  ],
+  "http://dbpedia.org/resource/Africa_Squeaks\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Bob_Clampett"
+  ],
+  "http://dbpedia.org/resource/Africa_Squeaks\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Leon_Schlesinger"
+  ],
+  "http://dbpedia.org/resource/After_Your_Own_Heart\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/George_Marshall_(director)"
+  ],
+  "http://dbpedia.org/resource/After_Your_Own_Heart\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/George_Hernandez",
+    "http://dbpedia.org/resource/Ora_Carew",
+    "http://dbpedia.org/resource/Tom_Mix"
+  ],
+  "http://dbpedia.org/resource/Against_All_Odds_(1924_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Edmund_Mortimer_(actor)"
+  ],
+  "http://dbpedia.org/resource/Against_All_Odds_(1924_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/William_Fox_(producer)"
+  ],
+  "http://dbpedia.org/resource/Against_All_Odds_(1924_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Buck_Jones"
+  ],
+  "http://dbpedia.org/resource/Ajit_Ram_Verma\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Padma_Bhushan",
+    "http://dbpedia.org/resource/Shanti_Swarup_Bhatnagar_Prize_for_Science_and_Technology"
+  ],
+  "http://dbpedia.org/resource/Alagappa_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Karaikudi"
+  ],
+  "http://dbpedia.org/resource/Albert_Claude\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Belgium",
+    "http://dbpedia.org/resource/Brussels"
+  ],
+  "http://dbpedia.org/resource/Albert_Einstein\thttp://dbpedia.org/ontology/award": [],
+  "http://dbpedia.org/resource/Albert_Einstein\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/German_Empire",
+    "http://dbpedia.org/resource/Kingdom_of_Württemberg",
+    "http://dbpedia.org/resource/Ulm"
+  ],
+  "http://dbpedia.org/resource/Albert_Einstein\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Princeton,_New_Jersey"
+  ],
+  "http://dbpedia.org/resource/Albert_Schweitzer\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Gabon",
+    "http://dbpedia.org/resource/Lambaréné"
+  ],
+  "http://dbpedia.org/resource/Albrecht_Penck\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Nazi_Germany",
+    "http://dbpedia.org/resource/Prague",
+    "http://dbpedia.org/resource/Protectorate_of_Bohemia_and_Moravia"
+  ],
+  "http://dbpedia.org/resource/Alexander_Ross_Clarke\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Reigate"
+  ],
+  "http://dbpedia.org/resource/Alexey_Okladnikov\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Novosibirsk",
+    "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic",
+    "http://dbpedia.org/resource/Soviet_Union"
+  ],
+  "http://dbpedia.org/resource/Alfred_Merle_Norman\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Berkhamsted"
+  ],
+  "http://dbpedia.org/resource/All_About_Women\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Tsui_Hark"
+  ],
+  "http://dbpedia.org/resource/All_About_Women\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Gwei_Lun-mei",
+    "http://dbpedia.org/resource/Zhang_Yuqi",
+    "http://dbpedia.org/resource/Zhou_Xun"
+  ],
+  "http://dbpedia.org/resource/All_Three_of_Us\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Kheiron"
+  ],
+  "http://dbpedia.org/resource/All_Three_of_Us\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Simon_Istolainen"
+  ],
+  "http://dbpedia.org/resource/All_Through_the_Night_(film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Hal_B._Wallis",
+    "http://dbpedia.org/resource/Jerry_Wald"
+  ],
+  "http://dbpedia.org/resource/All_Through_the_Night_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Conrad_Veidt",
+    "http://dbpedia.org/resource/Humphrey_Bogart",
+    "http://dbpedia.org/resource/Jackie_Gleason",
+    "http://dbpedia.org/resource/Kaaren_Verne",
+    "http://dbpedia.org/resource/Peter_Lorre",
+    "http://dbpedia.org/resource/Phil_Silvers"
+  ],
+  "http://dbpedia.org/resource/All_Together_(1942_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Jack_King_(animator)"
+  ],
+  "http://dbpedia.org/resource/All_Together_(1942_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/RKO_Pictures",
+    "http://dbpedia.org/resource/Walt_Disney_Animation_Studios"
+  ],
+  "http://dbpedia.org/resource/All_Together_(1942_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Clarence_Nash",
+    "http://dbpedia.org/resource/Pinto_Colvig",
+    "http://dbpedia.org/resource/Walt_Disney"
+  ],
+  "http://dbpedia.org/resource/All_at_Sea_(1935_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Anthony_Kimmins"
+  ],
+  "http://dbpedia.org/resource/All_at_Sea_(1935_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Robert_Arthur_(film_producer)"
+  ],
+  "http://dbpedia.org/resource/All_in_a_Nutshell\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Jack_Hannah"
+  ],
+  "http://dbpedia.org/resource/All_in_a_Nutshell\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Walt_Disney"
+  ],
+  "http://dbpedia.org/resource/All_in_a_Nutshell\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Walt_Disney_Animation_Studios"
+  ],
+  "http://dbpedia.org/resource/All_the_Best:_Fun_Begins\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Ajay_Devgn"
+  ],
+  "http://dbpedia.org/resource/All_the_Best:_Fun_Begins\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Ajay_Devgn",
+    "http://dbpedia.org/resource/Bipasha_Basu",
+    "http://dbpedia.org/resource/Fardeen_Khan",
+    "http://dbpedia.org/resource/Mugdha_Godse",
+    "http://dbpedia.org/resource/Sanjay_Dutt"
+  ],
+  "http://dbpedia.org/resource/Almost_Famous\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Cameron_Crowe"
+  ],
+  "http://dbpedia.org/resource/Almost_Famous\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Columbia_Pictures",
+    "http://dbpedia.org/resource/DreamWorks_Pictures",
+    "http://dbpedia.org/resource/Vinyl_Films"
+  ],
+  "http://dbpedia.org/resource/Almost_Famous\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Anna_Paquin",
+    "http://dbpedia.org/resource/Billy_Crudup",
+    "http://dbpedia.org/resource/Fairuza_Balk",
+    "http://dbpedia.org/resource/Frances_McDormand",
+    "http://dbpedia.org/resource/Jason_Lee",
+    "http://dbpedia.org/resource/Kate_Hudson",
+    "http://dbpedia.org/resource/Noah_Taylor",
+    "http://dbpedia.org/resource/Patrick_Fugit",
+    "http://dbpedia.org/resource/Philip_Seymour_Hoffman"
+  ],
+  "http://dbpedia.org/resource/Almost_Married_(1932_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/William_Cameron_Menzies"
+  ],
+  "http://dbpedia.org/resource/Almost_Married_(1932_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/William_Sistrom"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Daffy\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Friz_Freleng"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Daffy\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Edward_Selzer"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Daffy\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Daffy\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Mel_Blanc"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Polly\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/John_Hamburg"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Polly\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Jersey_Group"
+  ],
+  "http://dbpedia.org/resource/Along_Came_Polly\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Alec_Baldwin",
+    "http://dbpedia.org/resource/Ben_Stiller",
+    "http://dbpedia.org/resource/Bryan_Brown",
+    "http://dbpedia.org/resource/Debra_Messing",
+    "http://dbpedia.org/resource/Hank_Azaria",
+    "http://dbpedia.org/resource/Jennifer_Aniston",
+    "http://dbpedia.org/resource/Philip_Seymour_Hoffman"
+  ],
+  "http://dbpedia.org/resource/Alpine_Antics_(1936_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Jack_King_(animator)"
+  ],
+  "http://dbpedia.org/resource/Alpine_Antics_(1936_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Alvin_and_the_Chipmunks:_Chipwrecked\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Mike_Mitchell_(director)"
+  ],
+  "http://dbpedia.org/resource/Alvin_and_the_Chipmunks:_Chipwrecked\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Bagdasarian_Productions",
+    "http://dbpedia.org/resource/Fox_2000_Pictures",
+    "http://dbpedia.org/resource/RatPac_Entertainment",
+    "http://dbpedia.org/resource/Regency_Enterprises"
+  ],
+  "http://dbpedia.org/resource/Alvin_and_the_Chipmunks:_Chipwrecked\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Amy_Poehler",
+    "http://dbpedia.org/resource/Anna_Faris",
+    "http://dbpedia.org/resource/Christina_Applegate",
+    "http://dbpedia.org/resource/David_Cross",
+    "http://dbpedia.org/resource/Jason_Lee",
+    "http://dbpedia.org/resource/Jenny_Slate",
+    "http://dbpedia.org/resource/Jesse_McCartney",
+    "http://dbpedia.org/resource/Justin_Long",
+    "http://dbpedia.org/resource/Matthew_Gray_Gubler"
+  ],
+  "http://dbpedia.org/resource/American_Pie_2\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/J._B._Rogers"
+  ],
+  "http://dbpedia.org/resource/American_Pie_2\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Chris_Moore_(film_producer)"
+  ],
+  "http://dbpedia.org/resource/American_Pie_2\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/LivePlanet"
+  ],
+  "http://dbpedia.org/resource/American_Pie_2\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Alyson_Hannigan",
+    "http://dbpedia.org/resource/Chris_Klein_(actor)",
+    "http://dbpedia.org/resource/Eddie_Kaye_Thomas",
+    "http://dbpedia.org/resource/Eugene_Levy",
+    "http://dbpedia.org/resource/Jason_Biggs",
+    "http://dbpedia.org/resource/Mena_Suvari",
+    "http://dbpedia.org/resource/Natasha_Lyonne",
+    "http://dbpedia.org/resource/Seann_William_Scott",
+    "http://dbpedia.org/resource/Shannon_Elizabeth",
+    "http://dbpedia.org/resource/Tara_Reid",
+    "http://dbpedia.org/resource/Thomas_Ian_Nicholas"
+  ],
+  "http://dbpedia.org/resource/American_Wedding\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Jesse_Dylan"
+  ],
+  "http://dbpedia.org/resource/American_Wedding\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Adam_Herz",
+    "http://dbpedia.org/resource/Chris_Bender_(film_producer)",
+    "http://dbpedia.org/resource/Chris_Moore_(film_producer)"
+  ],
+  "http://dbpedia.org/resource/American_Wedding\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/LivePlanet"
+  ],
+  "http://dbpedia.org/resource/American_Wedding\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Alyson_Hannigan",
+    "http://dbpedia.org/resource/Eddie_Kaye_Thomas",
+    "http://dbpedia.org/resource/Eugene_Levy",
+    "http://dbpedia.org/resource/Fred_Willard",
+    "http://dbpedia.org/resource/January_Jones",
+    "http://dbpedia.org/resource/Jason_Biggs",
+    "http://dbpedia.org/resource/Seann_William_Scott",
+    "http://dbpedia.org/resource/Thomas_Ian_Nicholas"
+  ],
+  "http://dbpedia.org/resource/Amrita_Vishwa_Vidyapeetham\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Coimbatore"
+  ],
+  "http://dbpedia.org/resource/Amy_(1981_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Vincent_McEveety"
+  ],
+  "http://dbpedia.org/resource/Amy_(1981_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Walt_Disney_Pictures"
+  ],
+  "http://dbpedia.org/resource/Amy_(1981_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Barry_Newman",
+    "http://dbpedia.org/resource/Chris_Robinson_(actor)",
+    "http://dbpedia.org/resource/Jenny_Agutter",
+    "http://dbpedia.org/resource/Kathleen_Nolan",
+    "http://dbpedia.org/resource/Lou_Fant",
+    "http://dbpedia.org/resource/Margaret_O'Brien",
+    "http://dbpedia.org/resource/Nanette_Fabray"
+  ],
+  "http://dbpedia.org/resource/Amy_(2015_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Asif_Kapadia"
+  ],
+  "http://dbpedia.org/resource/Amy_(2015_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/James_Gay-Rees"
+  ],
+  "http://dbpedia.org/resource/Amy_(2015_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Film4_Productions",
+    "http://dbpedia.org/resource/Universal_Music_Group"
+  ],
+  "http://dbpedia.org/resource/Amy_(2015_film)\thttp://dbpedia.org/ontology/starring": [],
+  "http://dbpedia.org/resource/An_Air_So_Pure\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/André_Dussollier",
+    "http://dbpedia.org/resource/Fabrice_Luchini",
+    "http://dbpedia.org/resource/Marie_Gillain",
+    "http://dbpedia.org/resource/Yolande_Moreau"
+  ],
+  "http://dbpedia.org/resource/An_Angel_at_My_Table\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Bridget_Ikin"
+  ],
+  "http://dbpedia.org/resource/An_Angel_at_My_Table\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Kerry_Fox"
+  ],
+  "http://dbpedia.org/resource/An_Angel_from_Texas\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Eddie_Albert",
+    "http://dbpedia.org/resource/Jane_Wyman",
+    "http://dbpedia.org/resource/Ronald_Reagan",
+    "http://dbpedia.org/resource/Rosemary_Lane_(actress)",
+    "http://dbpedia.org/resource/Wayne_Morris"
+  ],
+  "http://dbpedia.org/resource/An_Eastern_Westerner\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Hal_Roach"
+  ],
+  "http://dbpedia.org/resource/An_Eastern_Westerner\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Harold_Lloyd"
+  ],
+  "http://dbpedia.org/resource/An_Enemy_of_the_People_(1978_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/George_Schaefer_(director)"
+  ],
+  "http://dbpedia.org/resource/An_Enemy_of_the_People_(1978_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/First_Artists"
+  ],
+  "http://dbpedia.org/resource/Analyze_This\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Jane_Rosenthal",
+    "http://dbpedia.org/resource/Paula_Weinstein"
+  ],
+  "http://dbpedia.org/resource/Analyze_This\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/TriBeCa_Productions",
+    "http://dbpedia.org/resource/Village_Roadshow_Pictures"
+  ],
+  "http://dbpedia.org/resource/Analyze_This\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Billy_Crystal",
+    "http://dbpedia.org/resource/Chazz_Palminteri",
+    "http://dbpedia.org/resource/Joe_Viterelli",
+    "http://dbpedia.org/resource/Lisa_Kudrow",
+    "http://dbpedia.org/resource/Robert_De_Niro"
+  ],
+  "http://dbpedia.org/resource/Anandam\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Srinu_Vaitla"
+  ],
+  "http://dbpedia.org/resource/Anandam\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Ramoji_Rao"
+  ],
+  "http://dbpedia.org/resource/Anandam\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Brahmanandam",
+    "http://dbpedia.org/resource/Jai_Akash",
+    "http://dbpedia.org/resource/Rekha_Vedavyas",
+    "http://dbpedia.org/resource/Tanikella_Bharani",
+    "http://dbpedia.org/resource/Tanu_Roy",
+    "http://dbpedia.org/resource/Venkat_(actor)"
+  ],
+  "http://dbpedia.org/resource/Anandamanandamaye\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Ramoji_Rao"
+  ],
+  "http://dbpedia.org/resource/Andrew_Huxley\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Cambridge"
+  ],
+  "http://dbpedia.org/resource/Anna_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Chennai"
+  ],
+  "http://dbpedia.org/resource/Annayya_(2000_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Allu_Aravind"
+  ],
+  "http://dbpedia.org/resource/Arachnophobia_(film)\thttp://dbpedia.org/ontology/productionCompany": [],
+  "http://dbpedia.org/resource/Ardem_Patapoutian\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine"
+  ],
+  "http://dbpedia.org/resource/Ardeshir_Hosseinpour\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Isfahan",
+    "http://dbpedia.org/resource/Pahlavi_Iran"
+  ],
+  "http://dbpedia.org/resource/Arnall_Patz\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/E._Mead_Johnson_Award",
+    "http://dbpedia.org/resource/Lasker–DeBakey_Clinical_Medical_Research_Award",
+    "http://dbpedia.org/resource/Presidential_Medal_of_Freedom"
+  ],
+  "http://dbpedia.org/resource/Ashoka_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Sonipat"
+  ],
+  "http://dbpedia.org/resource/At_the_Earth's_Core_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/American_International_Pictures",
+    "http://dbpedia.org/resource/Amicus_Productions"
+  ],
+  "http://dbpedia.org/resource/Australian_National_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Acton,_Australian_Capital_Territory"
+  ],
+  "http://dbpedia.org/resource/Avengers:_Endgame\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Marvel_Studios"
+  ],
+  "http://dbpedia.org/resource/Avi_Wigderson\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Abel_Prize",
+    "http://dbpedia.org/resource/Gödel_Prize",
+    "http://dbpedia.org/resource/IMU_Abacus_Medal",
+    "http://dbpedia.org/resource/Knuth_Prize",
+    "http://dbpedia.org/resource/Turing_Award"
+  ],
+  "http://dbpedia.org/resource/Bernhard_Neumann\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Canberra"
+  ],
+  "http://dbpedia.org/resource/Bert_Sutherland\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/California",
+    "http://dbpedia.org/resource/Mountain_View,_California"
+  ],
+  "http://dbpedia.org/resource/Bosko's_Knight-Mare\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Harman_and_Ising",
+    "http://dbpedia.org/resource/Leon_Schlesinger"
+  ],
+  "http://dbpedia.org/resource/Bosko's_Knight-Mare\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Harman_and_Ising",
+    "http://dbpedia.org/resource/Vitaphone",
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Bowery_Bugs\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Arthur_Davis_(animator)"
+  ],
+  "http://dbpedia.org/resource/Bowery_Bugs\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Edward_Selzer"
+  ],
+  "http://dbpedia.org/resource/Bowery_Bugs\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Billy_Bletcher",
+    "http://dbpedia.org/resource/Mel_Blanc"
+  ],
+  "http://dbpedia.org/resource/Boys_and_Girls_(2000_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Dimension_Films"
+  ],
+  "http://dbpedia.org/resource/Boys_and_Girls_(2000_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Amanda_Detmer",
+    "http://dbpedia.org/resource/Claire_Forlani",
+    "http://dbpedia.org/resource/Freddie_Prinze_Jr.",
+    "http://dbpedia.org/resource/Jason_Biggs"
+  ],
+  "http://dbpedia.org/resource/Caroline_and_the_Rebels\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Jean_Devaivre"
+  ],
+  "http://dbpedia.org/resource/Cat_Feud\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Chuck_Jones"
+  ],
+  "http://dbpedia.org/resource/Cat_Feud\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/John_W._Burton_(film_producer)"
+  ],
+  "http://dbpedia.org/resource/Cat_Feud\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Cat_Feud\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Mel_Blanc"
+  ],
+  "http://dbpedia.org/resource/Christy_Haynes\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Guggenheim_Fellowship",
+    "http://dbpedia.org/resource/NIH_Director's_New_Innovator_Award",
+    "http://dbpedia.org/resource/Sloan_Research_Fellowship"
+  ],
+  "http://dbpedia.org/resource/Colin_L._Masters\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/King_Faisal_Prize",
+    "http://dbpedia.org/resource/Potamkin_Prize"
+  ],
+  "http://dbpedia.org/resource/Dallas_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros."
+  ],
+  "http://dbpedia.org/resource/Dallas_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Barbara_Payton",
+    "http://dbpedia.org/resource/Gary_Cooper",
+    "http://dbpedia.org/resource/Leif_Erickson_(actor)",
+    "http://dbpedia.org/resource/Raymond_Massey",
+    "http://dbpedia.org/resource/Ruth_Roman",
+    "http://dbpedia.org/resource/Steve_Cochran"
+  ],
+  "http://dbpedia.org/resource/Dan_in_Real_Life\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Peter_Hedges"
+  ],
+  "http://dbpedia.org/resource/Dan_in_Real_Life\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Jonathan_Shestack"
+  ],
+  "http://dbpedia.org/resource/Dan_in_Real_Life\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Dane_Cook",
+    "http://dbpedia.org/resource/Dianne_Wiest",
+    "http://dbpedia.org/resource/Emily_Blunt",
+    "http://dbpedia.org/resource/John_Mahoney",
+    "http://dbpedia.org/resource/Juliette_Binoche",
+    "http://dbpedia.org/resource/Steve_Carell"
+  ],
+  "http://dbpedia.org/resource/Dance_Charlie_Dance\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Frank_McDonald_(director)"
+  ],
+  "http://dbpedia.org/resource/Dancer_in_the_Dark\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Canal+_(French_TV_channel)",
+    "http://dbpedia.org/resource/Film4_Productions",
+    "http://dbpedia.org/resource/France_3",
+    "http://dbpedia.org/resource/Zentropa"
+  ],
+  "http://dbpedia.org/resource/Danger:_Diabolik\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Mario_Bava"
+  ],
+  "http://dbpedia.org/resource/Danger:_Diabolik\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Dino_De_Laurentiis"
+  ],
+  "http://dbpedia.org/resource/Danger:_Diabolik\thttp://dbpedia.org/ontology/productionCompany": [],
+  "http://dbpedia.org/resource/Danger:_Diabolik\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Adolfo_Celi",
+    "http://dbpedia.org/resource/John_Phillip_Law",
+    "http://dbpedia.org/resource/Marisa_Mell",
+    "http://dbpedia.org/resource/Michel_Piccoli",
+    "http://dbpedia.org/resource/Terry-Thomas"
+  ],
+  "http://dbpedia.org/resource/Dangerous_Dan_McFoo\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Tex_Avery"
+  ],
+  "http://dbpedia.org/resource/Dangerous_Dan_McFoo\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Leon_Schlesinger"
+  ],
+  "http://dbpedia.org/resource/Dangerous_Dan_McFoo\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno:_An_Animated_Epic\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Mike_Disa",
+    "http://dbpedia.org/resource/Shūkō_Murase",
+    "http://dbpedia.org/resource/Victor_Cook",
+    "http://dbpedia.org/resource/Yasuomi_Umetsu"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno:_An_Animated_Epic\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Mitsuhisa_Ishikawa"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno:_An_Animated_Epic\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Graham_McTavish",
+    "http://dbpedia.org/resource/Peter_Jessop",
+    "http://dbpedia.org/resource/Steve_Blum",
+    "http://dbpedia.org/resource/Vanessa_Branch"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno_(1935_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Harry_Lachman"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno_(1935_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Sol_M._Wurtzel"
+  ],
+  "http://dbpedia.org/resource/Dante's_Inferno_(1935_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Fox_Film"
+  ],
+  "http://dbpedia.org/resource/Dark_Passage_(film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Delmer_Daves"
+  ],
+  "http://dbpedia.org/resource/Dark_Passage_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros."
+  ],
+  "http://dbpedia.org/resource/Dark_Passage_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Agnes_Moorehead",
+    "http://dbpedia.org/resource/Bruce_Bennett",
+    "http://dbpedia.org/resource/Humphrey_Bogart",
+    "http://dbpedia.org/resource/Lauren_Bacall",
+    "http://dbpedia.org/resource/Tom_D'Andrea"
+  ],
+  "http://dbpedia.org/resource/Dark_Victory\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/David_Lewis_(producer)"
+  ],
+  "http://dbpedia.org/resource/Dark_Victory\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Bette_Davis",
+    "http://dbpedia.org/resource/Cora_Witherspoon",
+    "http://dbpedia.org/resource/George_Brent",
+    "http://dbpedia.org/resource/Geraldine_Fitzgerald",
+    "http://dbpedia.org/resource/Henry_Travers",
+    "http://dbpedia.org/resource/Humphrey_Bogart",
+    "http://dbpedia.org/resource/Ronald_Reagan"
+  ],
+  "http://dbpedia.org/resource/Darling_(2007_Indian_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/T-Series_(company)"
+  ],
+  "http://dbpedia.org/resource/Darling_(2007_Indian_film)\thttp://dbpedia.org/ontology/starring": [],
+  "http://dbpedia.org/resource/Darling_(2015_Indian_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Allu_Aravind",
+    "http://dbpedia.org/resource/Studio_Green"
+  ],
+  "http://dbpedia.org/resource/Darling_(2015_Indian_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/G._V._Prakash_Kumar",
+    "http://dbpedia.org/resource/Nikki_Galrani"
+  ],
+  "http://dbpedia.org/resource/Darna_Zaroori_Hai\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Ram_Gopal_Varma",
+    "http://dbpedia.org/resource/Satish_Kaushik"
+  ],
+  "http://dbpedia.org/resource/Darna_Zaroori_Hai\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Ram_Gopal_Varma",
+    "http://dbpedia.org/resource/Sahara_Movie_Studios"
+  ],
+  "http://dbpedia.org/resource/Darna_Zaroori_Hai\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Amitabh_Bachchan",
+    "http://dbpedia.org/resource/Anil_Kapoor",
+    "http://dbpedia.org/resource/Arjun_Rampal",
+    "http://dbpedia.org/resource/Bipasha_Basu",
+    "http://dbpedia.org/resource/Makarand_Deshpande",
+    "http://dbpedia.org/resource/Mallika_Sherawat",
+    "http://dbpedia.org/resource/Rajpal_Yadav",
+    "http://dbpedia.org/resource/Randeep_Hooda",
+    "http://dbpedia.org/resource/Riteish_Deshmukh",
+    "http://dbpedia.org/resource/Sonali_Kulkarni",
+    "http://dbpedia.org/resource/Suniel_Shetty"
+  ],
+  "http://dbpedia.org/resource/Dastak_(1996_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Mukesh_Bhatt"
+  ],
+  "http://dbpedia.org/resource/Davangere_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Davanagere"
+  ],
+  "http://dbpedia.org/resource/David_(2013_Tamil_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Bejoy_Nambiar"
+  ],
+  "http://dbpedia.org/resource/David_(2013_Tamil_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Bejoy_Nambiar",
+    "http://dbpedia.org/resource/Vikram_(actor)"
+  ],
+  "http://dbpedia.org/resource/David_(2013_Tamil_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Getaway_Films"
+  ],
+  "http://dbpedia.org/resource/David_(2013_Tamil_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Isha_Sharvani",
+    "http://dbpedia.org/resource/Jiiva",
+    "http://dbpedia.org/resource/Lara_Dutta",
+    "http://dbpedia.org/resource/Tabu_(actress)",
+    "http://dbpedia.org/resource/Vikram_(actor)"
+  ],
+  "http://dbpedia.org/resource/David_A._Huffman\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Santa_Cruz,_California"
+  ],
+  "http://dbpedia.org/resource/David_Gale\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Berkeley,_California",
+    "http://dbpedia.org/resource/California"
+  ],
+  "http://dbpedia.org/resource/David_Goodall_(botanist)\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Order_of_Australia"
+  ],
+  "http://dbpedia.org/resource/David_Goodall_(botanist)\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Liestal"
+  ],
+  "http://dbpedia.org/resource/David_Gries\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/American_Federation_of_Information_Processing_Societies",
+    "http://dbpedia.org/resource/Association_for_Computing_Machinery",
+    "http://dbpedia.org/resource/IEEE_Computer_Society"
+  ],
+  "http://dbpedia.org/resource/David_Julius\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Breakthrough_Prize_in_Life_Sciences",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine"
+  ],
+  "http://dbpedia.org/resource/David_Lee_(physicist)\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Oliver_E._Buckley_Prize",
+    "http://dbpedia.org/resource/Simon_Memorial_Prize"
+  ],
+  "http://dbpedia.org/resource/David_MacDougall\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Cinéma_du_Réel",
+    "http://dbpedia.org/resource/Royal_Anthropological_Institute_of_Great_Britain_and_Ireland",
+    "http://dbpedia.org/resource/Venice_Film_Festival"
+  ],
+  "http://dbpedia.org/resource/Davy_Crockett:_King_of_the_Wild_Frontier_(film)\thttp://dbpedia.org/ontology/director": [],
+  "http://dbpedia.org/resource/Davy_Crockett:_King_of_the_Wild_Frontier_(film)\thttp://dbpedia.org/ontology/productionCompany": [],
+  "http://dbpedia.org/resource/Davy_Crockett:_King_of_the_Wild_Frontier_(film)\thttp://dbpedia.org/ontology/starring": [],
+  "http://dbpedia.org/resource/Day_Watch_(film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Timur_Bekmambetov"
+  ],
+  "http://dbpedia.org/resource/Day_Watch_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Aleksey_Chadov",
+    "http://dbpedia.org/resource/Gosha_Kutsenko",
+    "http://dbpedia.org/resource/Igor_Lifanov",
+    "http://dbpedia.org/resource/Jeanna_Friske",
+    "http://dbpedia.org/resource/Konstantin_Khabensky",
+    "http://dbpedia.org/resource/Mariya_Poroshina"
+  ],
+  "http://dbpedia.org/resource/Day_of_the_Dead_(2008_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Steve_Miner"
+  ],
+  "http://dbpedia.org/resource/Day_of_the_Dead_(2008_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/AnnaLynne_McCord",
+    "http://dbpedia.org/resource/Christa_Campbell",
+    "http://dbpedia.org/resource/Matt_Rippy",
+    "http://dbpedia.org/resource/Mena_Suvari",
+    "http://dbpedia.org/resource/Michael_Welch_(actor)",
+    "http://dbpedia.org/resource/Nick_Cannon",
+    "http://dbpedia.org/resource/Pat_Kilbane",
+    "http://dbpedia.org/resource/Stark_Sands",
+    "http://dbpedia.org/resource/Ving_Rhames"
+  ],
+  "http://dbpedia.org/resource/Dead_End_(1937_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/William_Wyler"
+  ],
+  "http://dbpedia.org/resource/Dead_End_(1937_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Samuel_Goldwyn"
+  ],
+  "http://dbpedia.org/resource/Dead_End_(1937_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Samuel_Goldwyn_Productions"
+  ],
+  "http://dbpedia.org/resource/Dead_Snow\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Tommy_Wirkola"
+  ],
+  "http://dbpedia.org/resource/Dead_Snow\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Harald_Zwart",
+    "http://dbpedia.org/resource/Tomas_Evjen"
+  ],
+  "http://dbpedia.org/resource/Dead_Snow\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Harald_Zwart"
+  ],
+  "http://dbpedia.org/resource/Dead_Snow\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Ane_Dahl_Torp",
+    "http://dbpedia.org/resource/Bjørn_Sundquist",
+    "http://dbpedia.org/resource/Charlotte_Frogner",
+    "http://dbpedia.org/resource/Jenny_Skavlan",
+    "http://dbpedia.org/resource/Stig_Frode_Henriksen"
+  ],
+  "http://dbpedia.org/resource/Dead_Tired\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Michel_Blanc"
+  ],
+  "http://dbpedia.org/resource/Dead_Tired\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Gaumont",
+    "http://dbpedia.org/resource/TF1_Group"
+  ],
+  "http://dbpedia.org/resource/Deadly_Advice\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Nigel_Stafford-Clark"
+  ],
+  "http://dbpedia.org/resource/Deadly_Advice\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Brenda_Fricker",
+    "http://dbpedia.org/resource/Imelda_Staunton",
+    "http://dbpedia.org/resource/Jane_Horrocks"
+  ],
+  "http://dbpedia.org/resource/Death_and_the_Maiden_(film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Thom_Mount"
+  ],
+  "http://dbpedia.org/resource/Death_and_the_Maiden_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Capitol_Films",
+    "http://dbpedia.org/resource/Film4_Productions"
+  ],
+  "http://dbpedia.org/resource/Death_and_the_Maiden_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Ben_Kingsley",
+    "http://dbpedia.org/resource/Sigourney_Weaver",
+    "http://dbpedia.org/resource/Stuart_Wilson_(actor)"
+  ],
+  "http://dbpedia.org/resource/Death_to_Smoochy\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Danny_DeVito"
+  ],
+  "http://dbpedia.org/resource/Death_to_Smoochy\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Andrew_Lazar",
+    "http://dbpedia.org/resource/Peter_MacGregor-Scott"
+  ],
+  "http://dbpedia.org/resource/Death_to_Smoochy\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Film4_Productions",
+    "http://dbpedia.org/resource/Wild_Bunch_(company)"
+  ],
+  "http://dbpedia.org/resource/Dedication_(film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Justin_Theroux"
+  ],
+  "http://dbpedia.org/resource/Dedication_(film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Celine_Rattray",
+    "http://dbpedia.org/resource/Justin_Theroux"
+  ],
+  "http://dbpedia.org/resource/Dedication_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Plum_Pictures"
+  ],
+  "http://dbpedia.org/resource/Dedication_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Billy_Crudup",
+    "http://dbpedia.org/resource/Mandy_Moore",
+    "http://dbpedia.org/resource/Tom_Wilkinson"
+  ],
+  "http://dbpedia.org/resource/Deep_Blue_Sea_(1999_film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Renny_Harlin"
+  ],
+  "http://dbpedia.org/resource/Deep_Blue_Sea_(1999_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Akiva_Goldsman",
+    "http://dbpedia.org/resource/Alan_Riche"
+  ],
+  "http://dbpedia.org/resource/Deep_Blue_Sea_(1999_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Jacqueline_McKenzie",
+    "http://dbpedia.org/resource/LL_Cool_J",
+    "http://dbpedia.org/resource/Michael_Rapaport",
+    "http://dbpedia.org/resource/Saffron_Burrows",
+    "http://dbpedia.org/resource/Samuel_L._Jackson",
+    "http://dbpedia.org/resource/Stellan_Skarsgård",
+    "http://dbpedia.org/resource/Thomas_Jane"
+  ],
+  "http://dbpedia.org/resource/Deep_Impact_(film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Mimi_Leder"
+  ],
+  "http://dbpedia.org/resource/Deep_Impact_(film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/David_Brown_(producer)",
+    "http://dbpedia.org/resource/Richard_D._Zanuck"
+  ],
+  "http://dbpedia.org/resource/Deep_Impact_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Amblin_Entertainment",
+    "http://dbpedia.org/resource/David_Brown_(producer)",
+    "http://dbpedia.org/resource/DreamWorks_Pictures",
+    "http://dbpedia.org/resource/Paramount_Pictures",
+    "http://dbpedia.org/resource/The_Zanuck_Company"
+  ],
+  "http://dbpedia.org/resource/Deep_Impact_(film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Elijah_Wood",
+    "http://dbpedia.org/resource/Maximilian_Schell",
+    "http://dbpedia.org/resource/Morgan_Freeman",
+    "http://dbpedia.org/resource/Robert_Duvall",
+    "http://dbpedia.org/resource/Téa_Leoni",
+    "http://dbpedia.org/resource/Vanessa_Redgrave"
+  ],
+  "http://dbpedia.org/resource/Demons_of_the_Mind\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Frank_Godwin_(film_producer)",
+    "http://dbpedia.org/resource/Michael_Carreras"
+  ],
+  "http://dbpedia.org/resource/Demons_of_the_Mind\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Kenneth_J._Warren",
+    "http://dbpedia.org/resource/Michael_Hordern",
+    "http://dbpedia.org/resource/Patrick_Magee_(actor)",
+    "http://dbpedia.org/resource/Paul_Jones_(singer)",
+    "http://dbpedia.org/resource/Robert_Hardy",
+    "http://dbpedia.org/resource/Yvonne_Mitchell"
+  ],
+  "http://dbpedia.org/resource/Desert_Blossoms\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Arthur_Rosson"
+  ],
+  "http://dbpedia.org/resource/Desert_Blossoms\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/William_Fox_(producer)"
+  ],
+  "http://dbpedia.org/resource/Detouring_America\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Tex_Avery"
+  ],
+  "http://dbpedia.org/resource/Detouring_America\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Leon_Schlesinger"
+  ],
+  "http://dbpedia.org/resource/Detouring_America\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Detouring_America\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Mel_Blanc",
+    "http://dbpedia.org/resource/Robert_C._Bruce"
+  ],
+  "http://dbpedia.org/resource/Devi_Ahilya_Vishwavidyalaya\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Indore"
+  ],
+  "http://dbpedia.org/resource/Devil_May_Hare\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Robert_McKimson"
+  ],
+  "http://dbpedia.org/resource/Devil_May_Hare\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Edward_Selzer"
+  ],
+  "http://dbpedia.org/resource/Devil_May_Hare\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Warner_Bros._Cartoons"
+  ],
+  "http://dbpedia.org/resource/Donald_Hopkins\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/MacArthur_Fellows_Program"
+  ],
+  "http://dbpedia.org/resource/Donald_Kagan\thttp://dbpedia.org/ontology/award": [],
+  "http://dbpedia.org/resource/Douglas_Hofstadter\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Academy_of_Achievement",
+    "http://dbpedia.org/resource/American_Academy_of_Arts_and_Sciences",
+    "http://dbpedia.org/resource/National_Book_Award",
+    "http://dbpedia.org/resource/Pulitzer_Prize"
+  ],
+  "http://dbpedia.org/resource/Dr._NTR_University_of_Health_Sciences\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Vijayawada"
+  ],
+  "http://dbpedia.org/resource/Edsger_W._Dijkstra\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/ACM_Fellow",
+    "http://dbpedia.org/resource/Harry_H._Goode_Memorial_Award",
+    "http://dbpedia.org/resource/SIGCSE_Award_for_Outstanding_Contribution_to_Computer_Science_Education",
+    "http://dbpedia.org/resource/Symposium_on_Principles_of_Distributed_Computing",
+    "http://dbpedia.org/resource/Turing_Award"
+  ],
+  "http://dbpedia.org/resource/Elving_Anderson\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Stillwater,_Minnesota"
+  ],
+  "http://dbpedia.org/resource/Endre_Dudich\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Budapest",
+    "http://dbpedia.org/resource/Hungary"
+  ],
+  "http://dbpedia.org/resource/Fantastic_Four_(2005_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/20th_Century_Studios",
+    "http://dbpedia.org/resource/26th_Street_Pictures",
+    "http://dbpedia.org/resource/Constantin_Film",
+    "http://dbpedia.org/resource/Marvel_Entertainment"
+  ],
+  "http://dbpedia.org/resource/Foxy_Brown_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/American_International_Pictures"
+  ],
+  "http://dbpedia.org/resource/Francis_T._Cullen\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/American_Society_of_Criminology"
+  ],
+  "http://dbpedia.org/resource/Frank_Sargent_(scientist)\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Royal_Society_University_Research_Fellowship"
+  ],
+  "http://dbpedia.org/resource/Frank_Wilczek\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Dirac_Medal_(ICTP)",
+    "http://dbpedia.org/resource/King_Faisal_Prize",
+    "http://dbpedia.org/resource/Lilienfeld_Prize",
+    "http://dbpedia.org/resource/Lorentz_Medal",
+    "http://dbpedia.org/resource/MacArthur_Fellows_Program",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Sakurai_Prize",
+    "http://dbpedia.org/resource/Templeton_Prize"
+  ],
+  "http://dbpedia.org/resource/Frederic_M._Richards\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Guilford,_Connecticut"
+  ],
+  "http://dbpedia.org/resource/Frederick_DuCane_Godman\thttp://dbpedia.org/ontology/deathPlace": [],
+  "http://dbpedia.org/resource/Frederick_G._Donnan\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Canterbury"
+  ],
+  "http://dbpedia.org/resource/Gangotri_(film)\thttp://dbpedia.org/ontology/productionCompany": [],
+  "http://dbpedia.org/resource/Garfield_Gets_Real\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Davis_Entertainment",
+    "http://dbpedia.org/resource/Paws,_Inc.",
+    "http://dbpedia.org/resource/The_Animation_Picture_Company"
+  ],
+  "http://dbpedia.org/resource/Gene_Amdahl\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Palo_Alto,_California"
+  ],
+  "http://dbpedia.org/resource/Gene_F._Franklin\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Palo_Alto,_California"
+  ],
+  "http://dbpedia.org/resource/George_Armitage_Miller\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Plainsboro_Township,_New_Jersey"
+  ],
+  "http://dbpedia.org/resource/George_C._Clerk\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Accra"
+  ],
+  "http://dbpedia.org/resource/George_Dantzig\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Stanford,_California"
+  ],
+  "http://dbpedia.org/resource/George_Everest\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/London"
+  ],
+  "http://dbpedia.org/resource/George_Kauffman\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/California",
+    "http://dbpedia.org/resource/Fresno,_California"
+  ],
+  "http://dbpedia.org/resource/George_N._Hatsopoulos\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Lincoln,_Massachusetts"
+  ],
+  "http://dbpedia.org/resource/George_de_Hevesy\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Freiburg_im_Breisgau",
+    "http://dbpedia.org/resource/West_Germany"
+  ],
+  "http://dbpedia.org/resource/Good_Times_(film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/American_Broadcasting_Company"
+  ],
+  "http://dbpedia.org/resource/Guy_Rocher\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/National_Order_of_Quebec",
+    "http://dbpedia.org/resource/Order_of_Canada"
+  ],
+  "http://dbpedia.org/resource/Haldan_Keffer_Hartline\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Fallston,_Maryland"
+  ],
+  "http://dbpedia.org/resource/Hanna_Neumann\thttp://dbpedia.org/ontology/deathPlace": [],
+  "http://dbpedia.org/resource/Hans_Kuypers\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Cambridge"
+  ],
+  "http://dbpedia.org/resource/Harichand_Guruchand_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Gaighata",
+    "http://dbpedia.org/resource/North_24_Parganas_district"
+  ],
+  "http://dbpedia.org/resource/Harold_Agnew\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Solana_Beach,_California"
+  ],
+  "http://dbpedia.org/resource/Harold_Beverage\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Port_Jefferson,_New_York"
+  ],
+  "http://dbpedia.org/resource/Harold_Furth\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Philadelphia"
+  ],
+  "http://dbpedia.org/resource/Harold_Max_Rosenberg\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Brazil"
+  ],
+  "http://dbpedia.org/resource/Harry_Kroto\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/East_Sussex",
+    "http://dbpedia.org/resource/Lewes"
+  ],
+  "http://dbpedia.org/resource/Harvey_J._Alter\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Canada_Gairdner_International_Award",
+    "http://dbpedia.org/resource/Karl_Landsteiner_Memorial_Award",
+    "http://dbpedia.org/resource/Lasker_Award",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physiology_or_Medicine"
+  ],
+  "http://dbpedia.org/resource/Herbert_A._Simon\thttp://dbpedia.org/ontology/award": [],
+  "http://dbpedia.org/resource/Isaac_Newton\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Woolsthorpe-by-Colsterworth"
+  ],
+  "http://dbpedia.org/resource/J._Robert_Oppenheimer\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Enrico_Fermi_Award",
+    "http://dbpedia.org/resource/Medal_for_Merit"
+  ],
+  "http://dbpedia.org/resource/Jagadguru_Ramanandacharya_Rajasthan_Sanskrit_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Jahangirnagar_University\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/James_F._Scott\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Josef_Stefan",
+    "http://dbpedia.org/resource/Materials_Research_Society"
+  ],
+  "http://dbpedia.org/resource/Jaypee_University_of_Information_Technology\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Solan_district"
+  ],
+  "http://dbpedia.org/resource/Joe_Neilands\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Guggenheim_Fellowship"
+  ],
+  "http://dbpedia.org/resource/John_Bardeen\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Fellow_of_the_Royal_Society",
+    "http://dbpedia.org/resource/Franklin_Medal",
+    "http://dbpedia.org/resource/Harold_Pender_Award",
+    "http://dbpedia.org/resource/IEEE_Medal_of_Honor",
+    "http://dbpedia.org/resource/International_Conference_on_Low_Temperature_Physics",
+    "http://dbpedia.org/resource/Lomonosov_Gold_Medal",
+    "http://dbpedia.org/resource/National_Medal_of_Science",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Oliver_E._Buckley_Prize",
+    "http://dbpedia.org/resource/Presidential_Medal_of_Freedom",
+    "http://dbpedia.org/resource/Stuart_Ballantine_Medal"
+  ],
+  "http://dbpedia.org/resource/John_Lindl\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Edward_Teller_Award",
+    "http://dbpedia.org/resource/James_Clerk_Maxwell_Prize_for_Plasma_Physics"
+  ],
+  "http://dbpedia.org/resource/Jonathan_D._Cohen\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/APA_Award_for_Distinguished_Scientific_Contributions_to_Psychology",
+    "http://dbpedia.org/resource/Joseph_Zubin_Award"
+  ],
+  "http://dbpedia.org/resource/Kenneth_G._Wilson\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Australian_Institute_of_Physics",
+    "http://dbpedia.org/resource/Boltzmann_Medal",
+    "http://dbpedia.org/resource/Dannie_Heineman_Prize_for_Mathematical_Physics",
+    "http://dbpedia.org/resource/Eringen_Medal",
+    "http://dbpedia.org/resource/Franklin_Medal",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Wolf_Prize"
+  ],
+  "http://dbpedia.org/resource/Kenneth_G._Wilson\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Waltham,_Massachusetts"
+  ],
+  "http://dbpedia.org/resource/Kip_Thorne\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Astrophysics",
+    "http://dbpedia.org/resource/Gravity"
+  ],
+  "http://dbpedia.org/resource/Kip_Thorne\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Albert_Einstein_Medal",
+    "http://dbpedia.org/resource/Breakthrough_Prize_in_Fundamental_Physics",
+    "http://dbpedia.org/resource/Gruber_Prize_in_Cosmology",
+    "http://dbpedia.org/resource/Harvey_Prize",
+    "http://dbpedia.org/resource/Kavli_Prize",
+    "http://dbpedia.org/resource/Lewis_Thomas_Prize",
+    "http://dbpedia.org/resource/Lilienfeld_Prize",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Princess_of_Asturias_Awards",
+    "http://dbpedia.org/resource/Shaw_Prize"
+  ],
+  "http://dbpedia.org/resource/Kristen_Nygaard\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computer_science"
+  ],
+  "http://dbpedia.org/resource/Lala_Lajpat_Rai_University_of_Veterinary_and_Animal_Sciences\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Hisar_(city)"
+  ],
+  "http://dbpedia.org/resource/Lance_Liotta\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Association_for_Diagnostics_&_Laboratory_Medicine"
+  ],
+  "http://dbpedia.org/resource/Lawrence_Alexander_Hardie\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Durban",
+    "http://dbpedia.org/resource/KwaZulu-Natal"
+  ],
+  "http://dbpedia.org/resource/Lawrence_B._Mohr\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Policy_studies",
+    "http://dbpedia.org/resource/Political_science"
+  ],
+  "http://dbpedia.org/resource/Leo_Postman\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Russia",
+    "http://dbpedia.org/resource/Saint_Petersburg"
+  ],
+  "http://dbpedia.org/resource/Leon_Kass\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Bioethics",
+    "http://dbpedia.org/resource/Human_rights",
+    "http://dbpedia.org/resource/Medicine"
+  ],
+  "http://dbpedia.org/resource/Leon_Kass\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Jefferson_Lecture"
+  ],
+  "http://dbpedia.org/resource/Leon_Kass\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Chicago",
+    "http://dbpedia.org/resource/Illinois"
+  ],
+  "http://dbpedia.org/resource/Leonard_Broom\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Boston",
+    "http://dbpedia.org/resource/Massachusetts"
+  ],
+  "http://dbpedia.org/resource/Lewis_Wolpert\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Developmental_biology"
+  ],
+  "http://dbpedia.org/resource/Lewis_Wolpert\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Royal_Medal",
+    "http://dbpedia.org/resource/Royal_Society_of_London_Michael_Faraday_Prize",
+    "http://dbpedia.org/resource/Viktor_Hamburger"
+  ],
+  "http://dbpedia.org/resource/Maha_Ashour-Abdalla\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Alexandria",
+    "http://dbpedia.org/resource/Kingdom_of_Egypt"
+  ],
+  "http://dbpedia.org/resource/Majuli_University_of_Culture\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Malcolm_Haines\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Belfast"
+  ],
+  "http://dbpedia.org/resource/Manonmaniam_Sundaranar_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/National_Assessment_and_Accreditation_Council",
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Maor_Farid\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Applied_mathematics",
+    "http://dbpedia.org/resource/Artificial_intelligence",
+    "http://dbpedia.org/resource/Chaos_theory",
+    "http://dbpedia.org/resource/Nonlinear_system"
+  ],
+  "http://dbpedia.org/resource/Maor_Farid\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Forbes_30_Under_30",
+    "http://dbpedia.org/resource/Moskowitz_Prize_for_Zionism"
+  ],
+  "http://dbpedia.org/resource/Matthew_O._Howard\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Chicago",
+    "http://dbpedia.org/resource/Illinois"
+  ],
+  "http://dbpedia.org/resource/Maxwell_McCombs\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Communication_studies",
+    "http://dbpedia.org/resource/Journalism",
+    "http://dbpedia.org/resource/Political_communication"
+  ],
+  "http://dbpedia.org/resource/Maxwell_McCombs\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Birmingham,_Alabama"
+  ],
+  "http://dbpedia.org/resource/Megan_Schwamb\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Planetary_science"
+  ],
+  "http://dbpedia.org/resource/Melvin_Cohn\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Eli_Lilly_and_Company-Elanco_Research_Award",
+    "http://dbpedia.org/resource/Novartis_Prizes_for_Immunology"
+  ],
+  "http://dbpedia.org/resource/Melvin_Cohn\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/New_York_City"
+  ],
+  "http://dbpedia.org/resource/Micha_Sharir\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Israel",
+    "http://dbpedia.org/resource/Tel_Aviv"
+  ],
+  "http://dbpedia.org/resource/Michael_Bulmer\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Biostatistics"
+  ],
+  "http://dbpedia.org/resource/Michael_Cole_(psychologist)\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Cultural_psychology"
+  ],
+  "http://dbpedia.org/resource/Michael_Wertheimer_(psychologist)\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Psychology"
+  ],
+  "http://dbpedia.org/resource/Moriba_Jah\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Orbital_mechanics",
+    "http://dbpedia.org/resource/Satellite_navigation"
+  ],
+  "http://dbpedia.org/resource/Nalini_Balbir\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Apabhraṃśa",
+    "http://dbpedia.org/resource/Indo-Aryan_languages",
+    "http://dbpedia.org/resource/Pali",
+    "http://dbpedia.org/resource/Prakrit",
+    "http://dbpedia.org/resource/Sanskrit"
+  ],
+  "http://dbpedia.org/resource/Nalini_Balbir\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Lormont"
+  ],
+  "http://dbpedia.org/resource/Nancy_Pedersen\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Genetic_epidemiology"
+  ],
+  "http://dbpedia.org/resource/Nanda_Rea\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Rome"
+  ],
+  "http://dbpedia.org/resource/Neil_Gordon_(paediatrician)\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Edinburgh",
+    "http://dbpedia.org/resource/Scotland"
+  ],
+  "http://dbpedia.org/resource/Nektarios_Tavernarakis\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Crete",
+    "http://dbpedia.org/resource/Greece",
+    "http://dbpedia.org/resource/Heraklion"
+  ],
+  "http://dbpedia.org/resource/Nelson_Cowan\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Psychology"
+  ],
+  "http://dbpedia.org/resource/Niklaus_Wirth\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computer_science"
+  ],
+  "http://dbpedia.org/resource/Nikola_Tesla\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/New_York_City"
+  ],
+  "http://dbpedia.org/resource/Nikos_Logothetis\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Object_recognition_(cognitive_science)"
+  ],
+  "http://dbpedia.org/resource/Norman_Allinger\thttp://dbpedia.org/ontology/award": [],
+  "http://dbpedia.org/resource/Norman_Allinger\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Alameda,_California"
+  ],
+  "http://dbpedia.org/resource/Norman_Rostoker\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Plasma_physics"
+  ],
+  "http://dbpedia.org/resource/Norman_Rostoker\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Toronto"
+  ],
+  "http://dbpedia.org/resource/Northern_University_of_Business_and_Technology_Khulna\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_of_Bangladesh"
+  ],
+  "http://dbpedia.org/resource/Oscar_Ratnoff\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/New_York_City"
+  ],
+  "http://dbpedia.org/resource/Pardis_Sabeti\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computational_biology",
+    "http://dbpedia.org/resource/Extended_evolutionary_synthesis",
+    "http://dbpedia.org/resource/Genetic_epidemiology"
+  ],
+  "http://dbpedia.org/resource/Pardis_Sabeti\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/National_Academy_of_Medicine",
+    "http://dbpedia.org/resource/Time_100"
+  ],
+  "http://dbpedia.org/resource/Paul_Farmer\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Infectious_disease",
+    "http://dbpedia.org/resource/Internal_medicine",
+    "http://dbpedia.org/resource/Medical_anthropology"
+  ],
+  "http://dbpedia.org/resource/Paul_Farmer\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Berggruen_Prize",
+    "http://dbpedia.org/resource/Conrad_N._Hilton_Foundation",
+    "http://dbpedia.org/resource/Heinz_Awards",
+    "http://dbpedia.org/resource/MacArthur_Fellows_Program",
+    "http://dbpedia.org/resource/Public_Welfare_Medal"
+  ],
+  "http://dbpedia.org/resource/Paul_Farmer\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/North_Adams,_Massachusetts"
+  ],
+  "http://dbpedia.org/resource/Paul_Milgrom\thttp://dbpedia.org/ontology/academicDiscipline": [],
+  "http://dbpedia.org/resource/Paul_Milgrom\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/BBVA_Foundation_Frontiers_of_Knowledge_Award",
+    "http://dbpedia.org/resource/Erwin_Plein_Nemmers_Prize_in_Economics",
+    "http://dbpedia.org/resource/Golden_Goose_Award",
+    "http://dbpedia.org/resource/Nobel_Memorial_Prize_in_Economic_Sciences"
+  ],
+  "http://dbpedia.org/resource/Paul_Milgrom\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Detroit",
+    "http://dbpedia.org/resource/Michigan"
+  ],
+  "http://dbpedia.org/resource/Peter_E._Toschek\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Physics"
+  ],
+  "http://dbpedia.org/resource/Peter_F._Green\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Jamaica"
+  ],
+  "http://dbpedia.org/resource/Peter_Wells_(medical_physicist)\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Dennis_Gabor_Medal_and_Prize",
+    "http://dbpedia.org/resource/Fellow_of_the_Academy_of_Medical_Sciences",
+    "http://dbpedia.org/resource/Fellow_of_the_Royal_Academy_of_Engineering",
+    "http://dbpedia.org/resource/Fellow_of_the_Royal_Society",
+    "http://dbpedia.org/resource/Royal_Medal"
+  ],
+  "http://dbpedia.org/resource/Pierre_Roubertoux\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Behavioural_genetics"
+  ],
+  "http://dbpedia.org/resource/Pondicherry_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/All_India_Council_for_Technical_Education",
+    "http://dbpedia.org/resource/Bar_Council_of_India",
+    "http://dbpedia.org/resource/Indian_Council_of_Agricultural_Research",
+    "http://dbpedia.org/resource/Indian_Council_of_Medical_Research",
+    "http://dbpedia.org/resource/Indian_Council_of_Social_Science_Research",
+    "http://dbpedia.org/resource/Pharmacy_Council_of_India",
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Pondicherry_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Kalapet"
+  ],
+  "http://dbpedia.org/resource/Population_Research_Laboratory\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Colleges_and_Universities_of_the_Canadian_Francophonie",
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Canada_West_Universities_Athletic_Association",
+    "http://dbpedia.org/resource/Canadian_University_Society_for_Intercollegiate_Debate",
+    "http://dbpedia.org/resource/U_Sports",
+    "http://dbpedia.org/resource/Universities_Canada",
+    "http://dbpedia.org/resource/University_of_the_Arctic"
+  ],
+  "http://dbpedia.org/resource/Powder_(film)\thttp://dbpedia.org/ontology/productionCompany": [],
+  "http://dbpedia.org/resource/Rasmus_Nielsen_(biologist)\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Evolutionary_biology",
+    "http://dbpedia.org/resource/Statistical_genetics"
+  ],
+  "http://dbpedia.org/resource/Richard_D._Todd\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Child_and_adolescent_psychiatry",
+    "http://dbpedia.org/resource/Psychiatric_genetics"
+  ],
+  "http://dbpedia.org/resource/Richard_Woodcock\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Portland,_Oregon"
+  ],
+  "http://dbpedia.org/resource/Robert_Bell_(geologist)\thttp://dbpedia.org/ontology/award": [],
+  "http://dbpedia.org/resource/Robert_Bell_(geologist)\thttp://dbpedia.org/ontology/birthPlace": [],
+  "http://dbpedia.org/resource/Robert_Bentley_(botanist)\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Hitchin"
+  ],
+  "http://dbpedia.org/resource/Robert_H._Grubbs\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Organic_chemistry"
+  ],
+  "http://dbpedia.org/resource/Robert_H._Grubbs\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/American_Institute_of_Chemists_Gold_Medal",
+    "http://dbpedia.org/resource/Fellow_of_the_Royal_Society",
+    "http://dbpedia.org/resource/Linus_Pauling_Award",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Chemistry",
+    "http://dbpedia.org/resource/Tolman_Award"
+  ],
+  "http://dbpedia.org/resource/Rogers_H._Wright\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Arkansas",
+    "http://dbpedia.org/resource/Hoxie,_Arkansas"
+  ],
+  "http://dbpedia.org/resource/Ronald_Akers\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Criminology"
+  ],
+  "http://dbpedia.org/resource/Ronald_V._Clarke\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Criminology"
+  ],
+  "http://dbpedia.org/resource/Rose_Frisch\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Biology",
+    "http://dbpedia.org/resource/Fat",
+    "http://dbpedia.org/resource/Infertility",
+    "http://dbpedia.org/resource/Leptin",
+    "http://dbpedia.org/resource/Obesity",
+    "http://dbpedia.org/resource/Population_health",
+    "http://dbpedia.org/resource/Public_health",
+    "http://dbpedia.org/resource/Women's_health"
+  ],
+  "http://dbpedia.org/resource/Rose_Frisch\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/New_York_City",
+    "http://dbpedia.org/resource/The_Bronx",
+    "http://dbpedia.org/resource/United_States"
+  ],
+  "http://dbpedia.org/resource/Ruth_Arnon\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Robert_Koch_Medal_and_Award",
+    "http://dbpedia.org/resource/Wolf_Prize_in_Medicine"
+  ],
+  "http://dbpedia.org/resource/SNDT_Women's_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Maharashtra",
+    "http://dbpedia.org/resource/Mumbai"
+  ],
+  "http://dbpedia.org/resource/Samuel_Francis_Boys\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Cambridge"
+  ],
+  "http://dbpedia.org/resource/Samuel_Greenhouse\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Statistics"
+  ],
+  "http://dbpedia.org/resource/Samuel_Greenhouse\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/The_Bronx"
+  ],
+  "http://dbpedia.org/resource/Sara_Nasserzadeh\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Relationship_science",
+    "http://dbpedia.org/resource/Sex_therapy",
+    "http://dbpedia.org/resource/Social_psychology"
+  ],
+  "http://dbpedia.org/resource/Saul_Perlmutter\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Physics"
+  ],
+  "http://dbpedia.org/resource/Saul_Perlmutter\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Breakthrough_Prize_in_Fundamental_Physics",
+    "http://dbpedia.org/resource/Ernest_Orlando_Lawrence_Award",
+    "http://dbpedia.org/resource/Gruber_Prize_in_Cosmology",
+    "http://dbpedia.org/resource/Nobel_Prize_in_Physics",
+    "http://dbpedia.org/resource/Shaw_Prize"
+  ],
+  "http://dbpedia.org/resource/Sergi_Jikia\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Turkology"
+  ],
+  "http://dbpedia.org/resource/Sergi_Jikia\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Martvili_Municipality"
+  ],
+  "http://dbpedia.org/resource/Shinobu_Kitayama\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Social_psychology"
+  ],
+  "http://dbpedia.org/resource/Simon_Biesheuvel\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Psychology"
+  ],
+  "http://dbpedia.org/resource/Simon_Biesheuvel\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Netherlands",
+    "http://dbpedia.org/resource/Rotterdam"
+  ],
+  "http://dbpedia.org/resource/St._Paul's_University_College\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/Stephanie_Kwolek\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/New_Kensington,_Pennsylvania"
+  ],
+  "http://dbpedia.org/resource/Stephen_Hawking\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Oxford"
+  ],
+  "http://dbpedia.org/resource/Stephen_R._Bourne\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computer_science"
+  ],
+  "http://dbpedia.org/resource/Susan_L._Swain\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Columbus,_Ohio"
+  ],
+  "http://dbpedia.org/resource/Symbiosis_International_University\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/S._B._Mujumdar"
+  ],
+  "http://dbpedia.org/resource/Symbiosis_International_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Pune"
+  ],
+  "http://dbpedia.org/resource/Tamil_Nadu_Dr._M.G.R._Medical_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Tamil_Nadu_Fisheries_University\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_governors_of_Tamil_Nadu"
+  ],
+  "http://dbpedia.org/resource/Tamil_Nadu_Fisheries_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Nagapattinam"
+  ],
+  "http://dbpedia.org/resource/Tamil_Nadu_Music_and_Fine_Arts_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Tanel_Tammet\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computer_science"
+  ],
+  "http://dbpedia.org/resource/Tanel_Tammet\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Estonia",
+    "http://dbpedia.org/resource/Tallinn"
+  ],
+  "http://dbpedia.org/resource/Tasmanian_Institute_of_Agriculture\thttp://dbpedia.org/ontology/chancellor": [],
+  "http://dbpedia.org/resource/Ted_Janssen\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Ewald_Prize",
+    "http://dbpedia.org/resource/Gregori_Aminoff_Prize"
+  ],
+  "http://dbpedia.org/resource/Ted_Janssen\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Netherlands",
+    "http://dbpedia.org/resource/Vught"
+  ],
+  "http://dbpedia.org/resource/Teesside_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/University_Alliance"
+  ],
+  "http://dbpedia.org/resource/Teruko_Ishizaka\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Empire_of_Japan",
+    "http://dbpedia.org/resource/Yamagata_(city)"
+  ],
+  "http://dbpedia.org/resource/Texas_A&M_University_at_Qatar\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Al_Rayyan",
+    "http://dbpedia.org/resource/Education_City"
+  ],
+  "http://dbpedia.org/resource/The_Care_Bears_Movie\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/American_Greetings",
+    "http://dbpedia.org/resource/Cloudco_Entertainment",
+    "http://dbpedia.org/resource/Nelvana"
+  ],
+  "http://dbpedia.org/resource/Thomas_D._Cook\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Birkenhead",
+    "http://dbpedia.org/resource/England",
+    "http://dbpedia.org/resource/United_Kingdom"
+  ],
+  "http://dbpedia.org/resource/Thomas_Oakland\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Kenosha,_Wisconsin",
+    "http://dbpedia.org/resource/Wisconsin"
+  ],
+  "http://dbpedia.org/resource/Thomas_Ollendick\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Child_psychology"
+  ],
+  "http://dbpedia.org/resource/Tracy_Palmer\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Biochemistry",
+    "http://dbpedia.org/resource/Microbiology",
+    "http://dbpedia.org/resource/Molecular_biology"
+  ],
+  "http://dbpedia.org/resource/Tracy_Palmer\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/EMBO_Membership",
+    "http://dbpedia.org/resource/Royal_Society_University_Research_Fellowship"
+  ],
+  "http://dbpedia.org/resource/Tracy_Palmer\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Sheffield"
+  ],
+  "http://dbpedia.org/resource/Ubaidur_Rahman\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Delhi",
+    "http://dbpedia.org/resource/Presidencies_and_provinces_of_British_India"
+  ],
+  "http://dbpedia.org/resource/Ulster_University\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Colin_Davidson_(artist)"
+  ],
+  "http://dbpedia.org/resource/Ulster_University_at_Coleraine\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Ulster_University"
+  ],
+  "http://dbpedia.org/resource/Ulster_University_at_Coleraine\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Colin_Davidson_(artist)"
+  ],
+  "http://dbpedia.org/resource/Universiti_Sains_Malaysia\thttp://dbpedia.org/ontology/affiliation": [
+    "http://apucen.usm.my/",
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Association_of_Southeast_Asian_Institutions_of_Higher_Learning",
+    "http://dbpedia.org/resource/ICESCO",
+    "http://dbpedia.org/resource/University_Alliance_in_Talent_Education_Development"
+  ],
+  "http://dbpedia.org/resource/Universiti_Sains_Malaysia\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Sirajuddin_of_Perlis"
+  ],
+  "http://dbpedia.org/resource/Universiti_Tenaga_Nasional\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Ramli_Ngah_Talib"
+  ],
+  "http://dbpedia.org/resource/Universiti_Utara_Malaysia\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/ASEAN_University_Network",
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Association_of_Southeast_Asian_Institutions_of_Higher_Learning",
+    "http://dbpedia.org/resource/ICESCO"
+  ],
+  "http://dbpedia.org/resource/Universiti_Utara_Malaysia\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Sallehuddin_of_Kedah"
+  ],
+  "http://dbpedia.org/resource/University_College_London\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Anne,_Princess_Royal",
+    "http://dbpedia.org/resource/University_of_London"
+  ],
+  "http://dbpedia.org/resource/University_College_London\thttp://dbpedia.org/ontology/city": [],
+  "http://dbpedia.org/resource/University_School_of_Chemical_Technology\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Dwarka,_Delhi"
+  ],
+  "http://dbpedia.org/resource/University_School_of_Law_and_Legal_Studies\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/University_School_of_Law_and_Legal_Studies\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_lieutenant_governors_of_Delhi"
+  ],
+  "http://dbpedia.org/resource/University_of_Akureyri\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/University_of_the_Arctic"
+  ],
+  "http://dbpedia.org/resource/University_of_Allahabad\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Ashish_Chauhan"
+  ],
+  "http://dbpedia.org/resource/University_of_Bristol\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Bristol"
+  ],
+  "http://dbpedia.org/resource/University_of_Calicut\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_governors_of_Kerala"
+  ],
+  "http://dbpedia.org/resource/University_of_Calicut\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Tenhipalam",
+    "http://dbpedia.org/resource/Thrissur"
+  ],
+  "http://dbpedia.org/resource/University_of_Canterbury\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Amy_Adams_(politician)"
+  ],
+  "http://dbpedia.org/resource/University_of_Canterbury\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Christchurch"
+  ],
+  "http://dbpedia.org/resource/University_of_Chester\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Gyles_Brandreth"
+  ],
+  "http://dbpedia.org/resource/University_of_Cumbria\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Ambleside",
+    "http://dbpedia.org/resource/Barrow-in-Furness",
+    "http://dbpedia.org/resource/Carlisle",
+    "http://dbpedia.org/resource/Lancaster,_Lancashire",
+    "http://dbpedia.org/resource/London_Borough_of_Tower_Hamlets",
+    "http://dbpedia.org/resource/Workington"
+  ],
+  "http://dbpedia.org/resource/University_of_Dar_es_Salaam\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_African_Universities",
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/International_Association_of_Universities"
+  ],
+  "http://dbpedia.org/resource/University_of_Dar_es_Salaam\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Jakaya_Kikwete"
+  ],
+  "http://dbpedia.org/resource/University_of_Derby\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/William_Cavendish,_Earl_of_Burlington"
+  ],
+  "http://dbpedia.org/resource/University_of_Dundee\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Dental_Schools_Council",
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/Universities_Scotland",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/University_of_the_Arctic"
+  ],
+  "http://dbpedia.org/resource/University_of_Dundee\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Dundee"
+  ],
+  "http://dbpedia.org/resource/University_of_East_Anglia\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Association_of_MBAs",
+    "http://dbpedia.org/resource/Eastern_ARC",
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/Norwich_Research_Park",
+    "http://dbpedia.org/resource/Universities_UK"
+  ],
+  "http://dbpedia.org/resource/University_of_East_Anglia\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Jenny_Abramsky"
+  ],
+  "http://dbpedia.org/resource/University_of_East_Anglia\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Norwich"
+  ],
+  "http://dbpedia.org/resource/University_of_Edinburgh\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Edinburgh\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Edinburgh"
+  ],
+  "http://dbpedia.org/resource/University_of_Eswatini\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Mswati_III"
+  ],
+  "http://dbpedia.org/resource/University_of_Exeter\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Association_of_MBAs",
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/GW4",
+    "http://dbpedia.org/resource/Russell_Group",
+    "http://dbpedia.org/resource/SETsquared",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/Worldwide_Universities_Network"
+  ],
+  "http://dbpedia.org/resource/University_of_Exeter\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Devon",
+    "http://dbpedia.org/resource/Exeter",
+    "http://dbpedia.org/resource/Penryn,_Cornwall"
+  ],
+  "http://dbpedia.org/resource/University_of_Glasgow\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Katherine_Grainger"
+  ],
+  "http://dbpedia.org/resource/University_of_Gloucestershire\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Brethren_Colleges_Abroad",
+    "http://dbpedia.org/resource/Erasmus_Programme",
+    "http://dbpedia.org/resource/Universities_UK"
+  ],
+  "http://dbpedia.org/resource/University_of_Greenwich\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Paul_Boateng"
+  ],
+  "http://dbpedia.org/resource/University_of_Helsinki\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Hertfordshire\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/University_Alliance"
+  ],
+  "http://dbpedia.org/resource/University_of_Hertfordshire\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Robert_Gascoyne-Cecil,_7th_Marquess_of_Salisbury"
+  ],
+  "http://dbpedia.org/resource/University_of_Hertfordshire\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Hertfordshire"
+  ],
+  "http://dbpedia.org/resource/University_of_Huddersfield\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/University_Alliance"
+  ],
+  "http://dbpedia.org/resource/University_of_Huddersfield\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/George_W._Buckley"
+  ],
+  "http://dbpedia.org/resource/University_of_Hull\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/Global_U8_Consortium",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/Utrecht_Network"
+  ],
+  "http://dbpedia.org/resource/University_of_Hull\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Alan_Johnson"
+  ],
+  "http://dbpedia.org/resource/University_of_Information_Technology_and_Sciences\thttp://dbpedia.org/ontology/chancellor": [],
+  "http://dbpedia.org/resource/University_of_Jaffna\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/S._Pathmanathan"
+  ],
+  "http://dbpedia.org/resource/University_of_Jammu\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/University_of_Jammu\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Jammu"
+  ],
+  "http://dbpedia.org/resource/University_of_Kota\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/University_of_Leicester\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Maggie_Aderin-Pocock"
+  ],
+  "http://dbpedia.org/resource/University_of_Limerick\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Limerick\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Brigid_Laffan"
+  ],
+  "http://dbpedia.org/resource/University_of_Lincoln\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Ajay_Kakkar,_Baron_Kakkar"
+  ],
+  "http://dbpedia.org/resource/University_of_Lincoln\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Lincoln,_England",
+    "http://dbpedia.org/resource/Lincolnshire"
+  ],
+  "http://dbpedia.org/resource/University_of_London\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Anne,_Princess_Royal"
+  ],
+  "http://dbpedia.org/resource/University_of_London\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/London"
+  ],
+  "http://dbpedia.org/resource/University_of_Madras\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Chennai"
+  ],
+  "http://dbpedia.org/resource/University_of_Malta\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/David_Attard"
+  ],
+  "http://dbpedia.org/resource/University_of_Malta\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Msida"
+  ],
+  "http://dbpedia.org/resource/University_of_Manchester\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Manchester"
+  ],
+  "http://dbpedia.org/resource/University_of_Melbourne\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Melbourne"
+  ],
+  "http://dbpedia.org/resource/University_of_Mysore\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Indian_Universities",
+    "http://dbpedia.org/resource/National_Assessment_and_Accreditation_Council",
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/University_of_Mysore\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_governors_of_Karnataka"
+  ],
+  "http://dbpedia.org/resource/University_of_Nottingham_Malaysia_Campus\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Nottingham_Ningbo_China\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Lola_Young,_Baroness_Young_of_Hornsey"
+  ],
+  "http://dbpedia.org/resource/University_of_Otago\thttp://dbpedia.org/ontology/city": [],
+  "http://dbpedia.org/resource/University_of_Plymouth\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Jonathan_Kestenbaum,_Baron_Kestenbaum"
+  ],
+  "http://dbpedia.org/resource/University_of_Portsmouth\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Portsmouth\thttp://dbpedia.org/ontology/chancellor": [],
+  "http://dbpedia.org/resource/University_of_Pretoria\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Sisi_Khampepe"
+  ],
+  "http://dbpedia.org/resource/University_of_Putra_Malaysia\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Sharafuddin_of_Selangor"
+  ],
+  "http://dbpedia.org/resource/University_of_Queensland\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)"
+  ],
+  "http://dbpedia.org/resource/University_of_Rajasthan\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_governors_of_Rajasthan"
+  ],
+  "http://dbpedia.org/resource/University_of_Rajshahi\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Reading\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Paul_Lindley"
+  ],
+  "http://dbpedia.org/resource/University_of_Reading\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Reading,_Berkshire"
+  ],
+  "http://dbpedia.org/resource/University_of_Salford\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/NCUK",
+    "http://dbpedia.org/resource/Universities_UK"
+  ],
+  "http://dbpedia.org/resource/University_of_Salford\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/City_of_Salford"
+  ],
+  "http://dbpedia.org/resource/University_of_Science_and_Technology_Chittagong\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_of_Bangladesh"
+  ],
+  "http://dbpedia.org/resource/University_of_Sheffield\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Sheffield\thttp://dbpedia.org/ontology/chancellor": [],
+  "http://dbpedia.org/resource/University_of_Sheffield\thttp://dbpedia.org/ontology/city": [],
+  "http://dbpedia.org/resource/University_of_Strathclyde\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/CESAER",
+    "http://dbpedia.org/resource/European_University_Association",
+    "http://dbpedia.org/resource/Universities_Scotland",
+    "http://dbpedia.org/resource/Universities_UK",
+    "http://dbpedia.org/resource/University_of_the_Arctic"
+  ],
+  "http://dbpedia.org/resource/University_of_Strathclyde\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Robert_Smith,_Baron_Smith_of_Kelvin"
+  ],
+  "http://dbpedia.org/resource/University_of_Suffolk\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Helen_Pankhurst"
+  ],
+  "http://dbpedia.org/resource/University_of_Sunderland\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Sunderland"
+  ],
+  "http://dbpedia.org/resource/University_of_Sussex\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/British_Universities_and_Colleges_Sport",
+    "http://dbpedia.org/resource/National_Centre_for_Universities_and_Business",
+    "http://dbpedia.org/resource/SEPnet",
+    "http://dbpedia.org/resource/SeNSS",
+    "http://dbpedia.org/resource/Universities_UK"
+  ],
+  "http://dbpedia.org/resource/University_of_Sussex\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Sanjeev_Bhaskar"
+  ],
+  "http://dbpedia.org/resource/University_of_Sussex\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Brighton",
+    "http://dbpedia.org/resource/Falmer"
+  ],
+  "http://dbpedia.org/resource/University_of_Sydney\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Group_of_Eight_(Australian_universities)"
+  ],
+  "http://dbpedia.org/resource/University_of_Sydney\thttp://dbpedia.org/ontology/city": [],
+  "http://dbpedia.org/resource/University_of_Technology_Malaysia\thttp://dbpedia.org/ontology/affiliation": [
+    "http://apucen.usm.my/",
+    "http://dbpedia.org/resource/Association_of_Southeast_Asian_Institutions_of_Higher_Learning",
+    "http://dbpedia.org/resource/ICESCO"
+  ],
+  "http://dbpedia.org/resource/University_of_Technology_Malaysia\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Raja_Zarith_Sofiah"
+  ],
+  "http://dbpedia.org/resource/University_of_Technology_Malaysia\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Iskandar_Puteri",
+    "http://dbpedia.org/resource/Skudai"
+  ],
+  "http://dbpedia.org/resource/University_of_Technology_Sarawak\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Technology_Sarawak\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Wan_Junaidi_Tuanku_Jaafar"
+  ],
+  "http://dbpedia.org/resource/University_of_Victoria\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Canadian_University_Press",
+    "http://dbpedia.org/resource/Canadian_University_Society_for_Intercollegiate_Debate",
+    "http://dbpedia.org/resource/International_Association_of_Universities",
+    "http://dbpedia.org/resource/Universities_Canada"
+  ],
+  "http://dbpedia.org/resource/University_of_Victoria\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Marion_Buller"
+  ],
+  "http://dbpedia.org/resource/University_of_Victoria\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Greater_Victoria"
+  ],
+  "http://dbpedia.org/resource/University_of_Waikato\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/Association_of_MBAs",
+    "http://dbpedia.org/resource/Association_of_Southeast_Asian_Institutions_of_Higher_Learning",
+    "http://dbpedia.org/resource/Association_to_Advance_Collegiate_Schools_of_Business",
+    "http://dbpedia.org/resource/EFMD_Quality_Improvement_System"
+  ],
+  "http://dbpedia.org/resource/University_of_Waikato\thttp://dbpedia.org/ontology/chancellor": [],
+  "http://dbpedia.org/resource/University_of_Wales\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Cardiff"
+  ],
+  "http://dbpedia.org/resource/University_of_Westminster\thttp://dbpedia.org/ontology/affiliation": [],
+  "http://dbpedia.org/resource/University_of_Westminster\thttp://dbpedia.org/ontology/city": [],
+  "http://dbpedia.org/resource/University_of_the_Sunshine_Coast\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Angus_Houston"
+  ],
+  "http://dbpedia.org/resource/University_of_the_Sunshine_Coast\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Sunshine_Coast,_Queensland"
+  ],
+  "http://dbpedia.org/resource/University_of_the_Witwatersrand\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Judy_Dlamini"
+  ],
+  "http://dbpedia.org/resource/Ursula_Bellugi\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/La_Jolla"
+  ],
+  "http://dbpedia.org/resource/Uttarakhand_Residential_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Uzhaippali\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/P._Vasu"
+  ],
+  "http://dbpedia.org/resource/Uzhaippali\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/B._Venkatarama_Reddy"
+  ],
+  "http://dbpedia.org/resource/Uzhaippali\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Rajinikanth",
+    "http://dbpedia.org/resource/Roja_Selvamani"
+  ],
+  "http://dbpedia.org/resource/Vacanze_di_Natale\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Carlo_Vanzina"
+  ],
+  "http://dbpedia.org/resource/Vacanze_di_Natale\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Aurelio_De_Laurentiis",
+    "http://dbpedia.org/resource/Luigi_De_Laurentiis"
+  ],
+  "http://dbpedia.org/resource/Valley_of_the_Giants_(film)\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/William_Keighley"
+  ],
+  "http://dbpedia.org/resource/Valley_of_the_Giants_(film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Louis_F._Edelman"
+  ],
+  "http://dbpedia.org/resource/Vampire_Circus\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/Robert_Young_(director)"
+  ],
+  "http://dbpedia.org/resource/Vampire_Circus\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Wilbur_Stark"
+  ],
+  "http://dbpedia.org/resource/Vampire_Circus\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Hammer_Film_Productions"
+  ],
+  "http://dbpedia.org/resource/Vampire_Circus\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Adrienne_Corri",
+    "http://dbpedia.org/resource/Anthony_Higgins_(actor)",
+    "http://dbpedia.org/resource/John_Moulder-Brown",
+    "http://dbpedia.org/resource/Laurence_Payne",
+    "http://dbpedia.org/resource/Lynne_Frederick",
+    "http://dbpedia.org/resource/Thorley_Walters"
+  ],
+  "http://dbpedia.org/resource/Vanilla_Sky\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Artisan_Entertainment",
+    "http://dbpedia.org/resource/Cruise/Wagner_Productions",
+    "http://dbpedia.org/resource/PRISA_TV",
+    "http://dbpedia.org/resource/Paramount_Pictures",
+    "http://dbpedia.org/resource/Summit_Entertainment",
+    "http://dbpedia.org/resource/Vinyl_Films"
+  ],
+  "http://dbpedia.org/resource/Vardhaman_Mahaveer_Open_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Kota,_Rajasthan"
+  ],
+  "http://dbpedia.org/resource/Vasuvum_Saravananum_Onna_Padichavanga\thttp://dbpedia.org/ontology/director": [
+    "http://dbpedia.org/resource/M._Rajesh"
+  ],
+  "http://dbpedia.org/resource/Vasuvum_Saravananum_Onna_Padichavanga\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/Arya_(actor)",
+    "http://dbpedia.org/resource/Prasad_V._Potluri"
+  ],
+  "http://dbpedia.org/resource/Vasuvum_Saravananum_Onna_Padichavanga\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Arya_(actor)",
+    "http://dbpedia.org/resource/Muktha_(actress)",
+    "http://dbpedia.org/resource/Santhanam_(actor)",
+    "http://dbpedia.org/resource/Tamannaah_Bhatia"
+  ],
+  "http://dbpedia.org/resource/Veeram_(2014_film)\thttp://dbpedia.org/ontology/producer": [
+    "http://dbpedia.org/resource/B._Venkatarama_Reddy"
+  ],
+  "http://dbpedia.org/resource/Veeram_(2014_film)\thttp://dbpedia.org/ontology/productionCompany": [
+    "http://dbpedia.org/resource/Vijaya_Vauhini_Studios"
+  ],
+  "http://dbpedia.org/resource/Veeram_(2014_film)\thttp://dbpedia.org/ontology/starring": [
+    "http://dbpedia.org/resource/Ajith_Kumar",
+    "http://dbpedia.org/resource/Tamannaah_Bhatia"
+  ],
+  "http://dbpedia.org/resource/Vellore_Institute_of_Technology\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Vellore_Institute_of_Technology\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Vellore"
+  ],
+  "http://dbpedia.org/resource/Vijayanagara_Sri_Krishnadevaraya_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Vijayanagara_Sri_Krishnadevaraya_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Ballari",
+    "http://dbpedia.org/resource/Karnataka"
+  ],
+  "http://dbpedia.org/resource/Vincenzo_Di_Nicola\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Clinical_psychology"
+  ],
+  "http://dbpedia.org/resource/Vinoba_Bhave_University\thttp://dbpedia.org/ontology/affiliation": [
+    "http://dbpedia.org/resource/Association_of_Commonwealth_Universities",
+    "http://dbpedia.org/resource/University_Grants_Commission_(India)"
+  ],
+  "http://dbpedia.org/resource/Vinoba_Bhave_University\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/List_of_governors_of_Jharkhand"
+  ],
+  "http://dbpedia.org/resource/Vivian_Lee\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/National_Academy_of_Medicine"
+  ],
+  "http://dbpedia.org/resource/Vladimir_Chelomey\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Moscow",
+    "http://dbpedia.org/resource/Russian_Soviet_Federative_Socialist_Republic",
+    "http://dbpedia.org/resource/Soviet_Union"
+  ],
+  "http://dbpedia.org/resource/Vladimir_Lobashev\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Nuclear_physics",
+    "http://dbpedia.org/resource/Particle_physics"
+  ],
+  "http://dbpedia.org/resource/Vladimir_Mikhailovich_Myasishchev\thttp://dbpedia.org/ontology/deathPlace": [],
+  "http://dbpedia.org/resource/W._G._Unruh\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/General_relativity",
+    "http://dbpedia.org/resource/Quantum_mechanics",
+    "http://dbpedia.org/resource/Theoretical_physics"
+  ],
+  "http://dbpedia.org/resource/W._Horsley_Gantt\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Virginia",
+    "http://dbpedia.org/resource/Wingina,_Virginia"
+  ],
+  "http://dbpedia.org/resource/Walter_Hayman\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/Berwick_Prize",
+    "http://dbpedia.org/resource/De_Morgan_Medal"
+  ],
+  "http://dbpedia.org/resource/Walter_Hayman\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Cologne",
+    "http://dbpedia.org/resource/Germany"
+  ],
+  "http://dbpedia.org/resource/Walter_Houser_Brattain\thttp://dbpedia.org/ontology/deathPlace": [],
+  "http://dbpedia.org/resource/Walter_Wilczynski\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Behavioral_neuroscience",
+    "http://dbpedia.org/resource/Neuroethology"
+  ],
+  "http://dbpedia.org/resource/Walter_Wilczynski\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Atlanta"
+  ],
+  "http://dbpedia.org/resource/Wang_Buxuan\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Beijing",
+    "http://dbpedia.org/resource/China"
+  ],
+  "http://dbpedia.org/resource/Warren_Ambrose\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Paris"
+  ],
+  "http://dbpedia.org/resource/Wilfrid_Laurier_University\thttp://dbpedia.org/ontology/chancellor": [
+    "http://dbpedia.org/resource/Eileen_Mercier"
+  ],
+  "http://dbpedia.org/resource/Wilfrid_Laurier_University\thttp://dbpedia.org/ontology/city": [
+    "http://dbpedia.org/resource/Brantford",
+    "http://dbpedia.org/resource/Canada",
+    "http://dbpedia.org/resource/Milton,_Ontario",
+    "http://dbpedia.org/resource/Ontario",
+    "http://dbpedia.org/resource/Waterloo,_Ontario"
+  ],
+  "http://dbpedia.org/resource/Wilhelm_Wien\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Bavaria",
+    "http://dbpedia.org/resource/Munich",
+    "http://dbpedia.org/resource/Weimar_Republic"
+  ],
+  "http://dbpedia.org/resource/William_Astbury\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Leeds"
+  ],
+  "http://dbpedia.org/resource/William_Edward_Hanford\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Bethesda,_Maryland"
+  ],
+  "http://dbpedia.org/resource/William_Happer\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Atomic_physics",
+    "http://dbpedia.org/resource/Optical_pumping"
+  ],
+  "http://dbpedia.org/resource/William_Healey_Dall\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Anthropologist",
+    "http://dbpedia.org/resource/Biologist",
+    "http://dbpedia.org/resource/Cartographer",
+    "http://dbpedia.org/resource/Malacology",
+    "http://dbpedia.org/resource/Natural_history",
+    "http://dbpedia.org/resource/Paleontology"
+  ],
+  "http://dbpedia.org/resource/William_Healey_Dall\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Boston"
+  ],
+  "http://dbpedia.org/resource/William_Howard_Stein\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/New_York_(state)",
+    "http://dbpedia.org/resource/New_York_City"
+  ],
+  "http://dbpedia.org/resource/William_J._Breed\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Flagstaff,_Arizona"
+  ],
+  "http://dbpedia.org/resource/William_James_Mayo\thttp://dbpedia.org/ontology/deathPlace": [
+    "http://dbpedia.org/resource/Rochester,_Minnesota"
+  ],
+  "http://dbpedia.org/resource/William_King_Gregory\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/National_Academy_of_Sciences"
+  ],
+  "http://dbpedia.org/resource/William_King_Gregory\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Greenwich_(village),_New_York"
+  ],
+  "http://dbpedia.org/resource/William_L._Kruer\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Louisville,_Kentucky"
+  ],
+  "http://dbpedia.org/resource/William_Nordhaus\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Environmental_economics"
+  ],
+  "http://dbpedia.org/resource/William_Shadish\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Psychology",
+    "http://dbpedia.org/resource/Statistics"
+  ],
+  "http://dbpedia.org/resource/William_Shadish\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Brooklyn",
+    "http://dbpedia.org/resource/New_York_(state)"
+  ],
+  "http://dbpedia.org/resource/William_Silverman\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Cleveland"
+  ],
+  "http://dbpedia.org/resource/Wilmatte_Porter_Cockerell\thttp://dbpedia.org/ontology/academicDiscipline": [],
+  "http://dbpedia.org/resource/Xiaowei_Zhuang\thttp://dbpedia.org/ontology/award": [
+    "http://dbpedia.org/resource/ACS_Award_in_Pure_Chemistry",
+    "http://dbpedia.org/resource/Breakthrough_Prize_in_Life_Sciences",
+    "http://dbpedia.org/resource/Heinrich_Wieland_Prize",
+    "http://dbpedia.org/resource/MacArthur_Fellows_Program",
+    "http://dbpedia.org/resource/Max_Delbruck_Prize",
+    "http://dbpedia.org/resource/NAS_Award_in_Molecular_Biology",
+    "http://dbpedia.org/resource/Sackler_Prize",
+    "http://dbpedia.org/resource/Vilcek_Foundation"
+  ],
+  "http://dbpedia.org/resource/Yves_Meyer\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Mathematics"
+  ],
+  "http://dbpedia.org/resource/Yves_Meyer\thttp://dbpedia.org/ontology/birthPlace": [
+    "http://dbpedia.org/resource/Paris"
+  ],
+  "http://dbpedia.org/resource/Zohar_Manna\thttp://dbpedia.org/ontology/academicDiscipline": [
+    "http://dbpedia.org/resource/Computer_science"
+  ]
+}

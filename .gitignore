@@ -1,0 +1,9 @@
+# Python generated files
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+venv/
+.env
+*.log
+# Keep dbpedia_cache.json and result.ttl tracked for reproducibility
