@@ -7,3 +7,4 @@ venv/
 .env
 *.log
 # Keep dbpedia_cache.json and result.ttl tracked for reproducibility
+result_reproduced.ttl
